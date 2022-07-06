@@ -1,0 +1,158 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+}
+header{
+    background-image: url(images/donation12.png);
+    background-position:center;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height:250px;
+
+}
+
+
+.link{
+    text-decoration: none;
+    background-color:tomato ;
+    color: white;
+    padding: 5px 5px;
+}
+#donate{
+    text-align: center;
+}
+.btn1{
+  background-color: aliceblue;
+  width:70px;
+  height: 60px;
+  border: none;
+  font-weight: 700;
+    
+}
+.btn2{
+    background-color:pink;
+    width:70px;
+    height: 60px;
+    box-sizing: border-box;
+    color: red;
+    margin-left: 10px;
+}
+.btn3{
+    background-color: aliceblue;
+    width:70px;
+    height: 60px;
+    border: none;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.btn4{
+    background-color: aliceblue;
+    width:70px;
+    height: 60px;
+    border: none;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.btn5{
+    background-color: aliceblue;
+    width:70px;
+    height: 60px;
+    border: none;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.amount{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border:20px;
+    color:wheat;
+}
+.link2{
+    margin-top: 30px;
+}
+#planning{
+    text-align: center;
+    margin-top: 80px;
+}
+.separated{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.separated div{
+    width: 300px;
+    height: 250px;
+    margin: 10px 30px;
+    padding: 40px 20px;
+    border-radius: 5px;
+}
+    
+.plan img{
+    width: 50px;
+}
+#bg-img1{
+    background-color: aqua;
+}
+#bg-img2{
+    background-color: bisque;
+}
+#bg-img3{
+    background-color:aliceblue;
+}
+
+.update{
+    text-align: center;
+    
+}
+#helping-sight{
+    display: flex;
+    text-align: center;
+    padding-top: 80px;
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding:10px 40px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.Bonus{
+    background-color: bisque;
+    padding: 50px 40px;
+    
+    display: flex;
+    justify-content: center;
+}
+.gray{
+    background-color:grey;
+    color: white;
+    padding:10px 40px;
+}
+.subscribe{
+    background-color: orangered;
+    color: white;
+    padding-right: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+}
+footer h1{
+    font-family: 'Italianno', cursive;
+    color:red;
+    
+}
